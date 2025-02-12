@@ -1,0 +1,31 @@
+body, html {
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin img {
+  width: 80px;
+  height: auto;
+}
+
+.form-signin input {
+  border-radius: 0;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  border: none;
+}
